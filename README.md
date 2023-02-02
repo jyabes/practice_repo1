@@ -9,3 +9,11 @@
 3. git push origin HEAD
 
 ### After push,the README.md will update! Ta-daaa!
+
+## After updating the branch you need to update the main and merge the branch.
+
+1. go to main branch
+2. git merge "name of the branch"
+3. git push
+
+# Ta-daaah!

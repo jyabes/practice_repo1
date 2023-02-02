@@ -2,7 +2,7 @@
 
 
 # THIS IS A TEST!
-## To update README.md at branch
+## To update README.md branch
 
 1. git add .
 2. git commit -m "readme.md"

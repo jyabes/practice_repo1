@@ -12,8 +12,11 @@
 
 ## After updating the branch you need to update the main and merge the branch.
 
-1. go to main branch
+1. go to main branchs
 2. git merge "name of the branch"
 3. git push
 
 # Ta-daaah!
+
+
+Screenshot 2023-02-08 at 4.31.45 PM.png
